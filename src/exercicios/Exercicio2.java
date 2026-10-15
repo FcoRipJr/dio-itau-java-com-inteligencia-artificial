@@ -1,3 +1,4 @@
+package exercicios;
 import java.util.Scanner;
 
 // Referência: docs/exercicios-java-basico/exercicios/2 - Estruturas de Controle em Java.md
