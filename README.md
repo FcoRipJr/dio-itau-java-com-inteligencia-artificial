@@ -18,3 +18,7 @@ disponibilizado para apoiar o aprendizado de Java. Os materiais originais são m
 Praticar os conceitos da linguagem Java apresentados no bootcamp, resolvendo as atividades propostas e organizando o código por tema.
 
 > As implementações em `src/` são respostas desenvolvidas por mim durante os estudos e podem evoluir conforme avanço no bootcamp.
+
+## Outros repositórios para consulta
+- [digitalinnovationone/annotation-processor](https://github.com/digitalinnovationone/annotation-processor)
+- [digitalinnovationone/warehouse](https://github.com/digitalinnovationone/warehouse)
