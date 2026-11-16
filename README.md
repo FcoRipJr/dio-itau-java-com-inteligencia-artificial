@@ -19,6 +19,11 @@ Praticar os conceitos da linguagem Java apresentados no bootcamp, resolvendo as 
 
 > As implementações em `src/` são respostas desenvolvidas por mim durante os estudos e podem evoluir conforme avanço no bootcamp.
 
+## Repositórios dos desafios de projeto realizados:
+- [FcoRipJr/lab-padroes-projeto-spring](https://github.com/FcoRipJr/lab-padroes-projeto-spring)
+- [FcoRipJr/dio-spring-boot-learning-track-spring-ai](https://github.com/FcoRipJr/dio-spring-boot-learning-track-spring-ai)
+
 ## Outros repositórios para consulta
 - [digitalinnovationone/annotation-processor](https://github.com/digitalinnovationone/annotation-processor)
 - [digitalinnovationone/warehouse](https://github.com/digitalinnovationone/warehouse)
+
